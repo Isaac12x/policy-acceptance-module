@@ -1,0 +1,83 @@
+{
+  "name": "@fortisvincere/policy-acceptance-module",
+  "version": "1.0.2",
+  "description": "Complete policy acceptance system for Next.js React applications with support for individual and company-wide policy management",
+  "keywords": [
+    "react",
+    "nextjs",
+    "policy",
+    "terms",
+    "privacy",
+    "acceptance",
+    "compliance",
+    "typescript",
+    "gdpr",
+    "legal",
+    "terms-of-service",
+    "privacy-policy"
+  ],
+  "homepage": "https://github.com/isaac12x/policy-acceptance#readme",
+  "bugs": {
+    "url": "https://github.com/isaac12x/policy-acceptance/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaac12x/policy-acceptance.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Isaac AR <ialbetsram@gmail.com>",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "docs"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "next dev",
+    "prepublishOnly": "npm run build",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.4",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-radio-group": "^1.1.3",
+    "@radix-ui/react-scroll-area": "^1.0.5",
+    "@radix-ui/react-select": "^2.0.0",
+    "@radix-ui/react-slot": "^1.0.4",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.454.0",
+    "tailwind-merge": "^2.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "next": "16.0.1",
+    "postcss": "^8.5",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "tailwindcss": "^4.1.9",
+    "tailwindcss-animate": "1.0.7",
+    "tsup": "^8.0.0",
+    "typescript": "^5"
+  },
+  "peerDependencies": {
+    "next": "^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  }
+}
