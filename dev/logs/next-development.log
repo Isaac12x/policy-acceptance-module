@@ -1,0 +1,338 @@
+[00:00:01.572] Server  LOG      ✓ Ready in 1353ms
+[00:01:30.611] Server  ERROR   Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[00:01:31.298] Server  ERROR    ⨯ ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:01:31.311] Server  LOG      ○ Compiling /demo/modal ...
+[00:01:31.843] Server  ERROR   Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[00:01:32.526] Server  ERROR   Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[00:01:32.606] Server  ERROR    ⨯ ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:01:33.146] Browser ERROR   uncaughtError: Error: Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+
+[00:01:33.464] Server  ERROR   Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[00:01:33.600] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:01:33.600] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+-- inner error --
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+Generated code for /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[2]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[3]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+[00:01:33.698] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:01:33.698] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+-- inner error --
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+Generated code for /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[2]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[3]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+
+Import trace for requested module:
+./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+[00:01:33.825] Server  ERROR   Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[00:01:33.903] Server  ERROR    ⨯ ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:01:34.007] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:01:34.007] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+-- inner error --
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+Generated code for /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[2]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[3]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+
+Import trace for requested module:
+./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+[00:04:11.728] Server  ERROR   Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[00:04:11.970] Server  ERROR    ⨯ ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:04:12.299] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css:1:1
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+[00:04:12.299] Browser ERROR   ./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+-- inner error --
+Syntax error: tailwindcss: /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive (1:1)
+
+> 1 | /* Policy Acceptance Module - CSS Variables Only */
+    | ^
+  2 | /* Users must configure Tailwind to scan this package for utility classes */
+  3 | 
+Generated code for /Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[2]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/next@16.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[15].oneOf[10].use[3]!/Users/iamin/Sync/code@repos/Policy Acceptance Modal/example/node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+
+Import trace for requested module:
+./node_modules/.pnpm/@fortisvincere+policy-acceptance-module@file+..+package_58bbc1daeba999620b684b29088d9656/node_modules/@fortisvincere/policy-acceptance-module/styles/index.css
+[00:04:54.475] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:04:55.121] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <SegmentViewNode type="page" pagePath="demo/modal...">
+      <SegmentTrieNode>
+      <ModalDemoPage>
+        <ModalDemo>
+          <PolicyAcceptanceProvider config={{...}}>
+            <div className="min-h-scre...">
+              <div className="max-w-4xl ...">
+                <div>
+                <div className="grid md:gr...">
+                  <Card className="cursor-poi..." onClick={function onClick}>
+                    <div data-slot="card" className="text-card-..." onClick={function onClick}>
+                      <CardHeader>
+                      <CardContent className="space-y-3">
+                        <div data-slot="card-content" className="px-6 space...">
+                          <div className="flex items...">
+                            <Badge>
+                            <span className="text-xs te...">
++                             01/01/2026
+-                             1/1/2026
+                          ...
+                  ...
+                ...
+              ...
+    ...
+
+[00:05:01.181] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:05:01.773] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/demos" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head headCacheNode={{lazyData:null, ...}}>
+                    <__next_viewport_boundary__>
+                    <Next.Metadata>
+                      <div
++                       hidden={true}
+-                       hidden={null}
+-                       id="react-root"
+                      >
+                        <__next_metadata_boundary__>
++                         <Suspense name="Next.Metadata">
+-                         <div id="manager">
+                    ...
+                  ...
+
+[03:50:14.691] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/demo/dash..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head headCacheNode={{lazyData:null, ...}}>
+                    <__next_viewport_boundary__>
+                    <Next.Metadata>
+                      <div
++                       hidden={true}
+-                       hidden={null}
+-                       id="react-root"
+                      >
+                        <__next_metadata_boundary__>
++                         <Suspense name="Next.Metadata">
+-                         <div id="manager">
+                    ...
+                  ...
+
+[04:11:21.106] Server  ERROR    ⨯ ./components/dashboard-demo.tsx:3:1
+Module not found: Can't resolve '@/components/policy-acceptance-dashboard'
+  1 | "use client";
+  2 |
+> 3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+    | ^
+  4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+
+https://nextjs.org/docs/messages/module-not-found
+[04:11:21.299] Browser ERROR   ./components/dashboard-demo.tsx:3:1
+Module not found: Can't resolve '@/components/policy-acceptance-dashboard'
+  1 | "use client";
+  2 |
+> 3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+    | ^
+  4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+
+https://nextjs.org/docs/messages/module-not-found
+[04:11:21.299] Browser ERROR   ./components/dashboard-demo.tsx:4:1
+Module not found: Can't resolve '@/provider/policy-acceptance-provider'
+  2 |
+  3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+> 4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+    | ^
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[04:11:21.299] Browser ERROR   ./components/dashboard-demo.tsx:3:1
+Module not found: Can't resolve '@/components/policy-acceptance-dashboard'
+  1 | "use client";
+  2 |
+> 3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+    | ^
+  4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+
+https://nextjs.org/docs/messages/module-not-found
+[04:11:21.299] Browser ERROR   ./components/dashboard-demo.tsx:4:1
+Module not found: Can't resolve '@/provider/policy-acceptance-provider'
+  2 |
+  3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+> 4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+    | ^
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[04:22:23.957] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/policy-acceptance-dashboard'
+  1 | "use client";
+  2 |
+> 3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+    | ^
+  4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+
+https://nextjs.org/docs/messages/module-not-found
+
+[04:22:24.289] Browser ERROR   ./components/dashboard-demo.tsx:3:1
+Module not found: Can't resolve '@/components/policy-acceptance-dashboard'
+  1 | "use client";
+  2 |
+> 3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+    | ^
+  4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+
+https://nextjs.org/docs/messages/module-not-found
+[04:22:24.289] Browser ERROR   ./components/dashboard-demo.tsx:4:1
+Module not found: Can't resolve '@/provider/policy-acceptance-provider'
+  2 |
+  3 | import { PolicyAcceptanceDashboard } from "@/components/policy-acceptance-dashboard";
+> 4 | import { PolicyAcceptanceProvider } from "@/provider/policy-acceptance-provider";
+    | ^
+  5 | import type { AIAssistantConfig } from "@/types";
+  6 | import { createIndividualConfig } from "./organization-setups";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
