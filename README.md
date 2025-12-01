@@ -1,6 +1,6 @@
 # Policy Acceptance Module
 
-A comprehensive, drop-in React package for managing policy acceptances in Next.js applications with support for individual, company-wide, and hybrid acceptance workflows.
+A comprehensive, drop-in React package for managing policy acceptances with support for individual, company-wide, and hybrid acceptance workflows.
 
 ## Features
 
@@ -11,6 +11,11 @@ A comprehensive, drop-in React package for managing policy acceptances in Next.j
 - **AI Assistant Integration**: Optional AI helper for policy questions (plug-and-play)
 - **TypeScript Support**: Full type safety and IntelliSense
 - **Customizable**: Extensive configuration options for branding and behavior
+- **Policy Upload**: Admin functionality for uploading new policy versions
+
+## WIP
+
+AI interface bar and chat, if used beware this is not ready as the other components are we are actively working on it.
 
 ## Goal
 
@@ -189,6 +194,8 @@ Then visit:
 - [Policy Diff Component](./docs/policy-diff.md) - Understanding version comparison
 - [AI Assistant Integration](./docs/ai-assistant-integration.md) - Connecting your AI service
 - [Examples](./example/components/README.md) - Complete working examples
+- [Database Setup Guide](./docs/database-setup.md) - SQL schema and setup instructions
+- [Database Schema](./docs/database-schema.sql) - Complete SQL schema with indexes and views
 
 ## Package Structure
 
